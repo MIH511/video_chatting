@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">video chatting</string>
+    <string name="welcome_to">Welcome To</string>
+    <string name="video_chatting_app">Video Chatting App</string>
+    <string name="sign_in_to_your_account">Sign In To Your Account</string>
+    <string name="email">Email</string>
+    <string name="you_example_com">you@example.com</string>
+    <string name="password">Password</string>
+    <string name="password_hint">• • • • • •</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_an_account">Do not Have An Account?</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="we_need_a_few_details_to_get_your_account_ready">We need a few details to get your account ready</string>
+    <string name="first_name">First Name</string>
+    <string name="john">john</string>
+    <string name="last_name">Last Name</string>
+    <string name="harry">Harry</string>
+    <string name="already_have_an_account">Already Have An account</string>
+    <string name="sign_out">Sign out</string>
+    <string name="incoming_meeting_invitation">Incoming Meeting Invitation</string>
+    <string name="sending_meeting_invitation">Sending Meeting Invitation</string>
+</resources>
